@@ -398,8 +398,8 @@ container {
     }
     .top-menu ul li {
         display: inline-block;
-        margin-left: -1px;
-        border: 2px solid red;
+        margin-left: -2px;
+        border: 1px solid red;
         padding: 5px;
     }
     .top-menu ul {
